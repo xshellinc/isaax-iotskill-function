@@ -1,7 +1,7 @@
 <?php
 /*
 * Plugin Name: IoTエンジニア養成キットのサイト必須プラグイン
-* Version: 1
+* Version: 1.1
 * Author: Xshell,Inc.
 * Text Domain: isaax-iotskill-function
 * Author URI: https://xshell.io
